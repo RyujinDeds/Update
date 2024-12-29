@@ -4,7 +4,7 @@
   "Description": "Test Message",
   "MainTextButton": "Update",
   "Cancelable": "true",
-  "UpdateButton": "false"
+  "LogoLink": "https://ibb.co/RCD3Z9M"
   "CancelButtonText": "Cancel",
   "DownloadLink": "https://google.com",
   "Version": "1.2"
